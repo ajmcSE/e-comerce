@@ -68,9 +68,3 @@ The database schema consists of the following tables:
 - product_tag: A junction table that associates products with tags.
 - Refer to the models directory for the Sequelize models and their relationships.
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
-
-## Walkthrough Video
-[https://drive.google.com/file/d/1FrHDyjb4YFxW2bRfqCu3Su5yeyayoI7k/view]
